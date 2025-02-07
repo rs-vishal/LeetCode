@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/rs-vishal/LeetCode/tree/master/0198-house-robber) |
+| [1833-find-the-highest-altitude](https://github.com/rs-vishal/LeetCode/tree/master/1833-find-the-highest-altitude) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/rs-vishal/LeetCode/tree/master/1894-merge-strings-alternately) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/rs-vishal/LeetCode/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
