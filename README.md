@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rs-vishal/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/rs-vishal/LeetCode/tree/master/0007-reverse-integer) |
 | [0367-valid-perfect-square](https://github.com/rs-vishal/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Database
@@ -84,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/rs-vishal/LeetCode/tree/master/0861-flipping-an-image) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/rs-vishal/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/rs-vishal/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
