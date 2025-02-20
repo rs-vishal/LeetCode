@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/rs-vishal/LeetCode/tree/master/0202-happy-number) |
 | [0861-flipping-an-image](https://github.com/rs-vishal/LeetCode/tree/master/0861-flipping-an-image) |
 | [0917-boats-to-save-people](https://github.com/rs-vishal/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/rs-vishal/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/rs-vishal/LeetCode/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/rs-vishal/LeetCode/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/rs-vishal/LeetCode/tree/master/0389-find-the-difference) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rs-vishal/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/rs-vishal/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/rs-vishal/LeetCode/tree/master/0007-reverse-integer) |
+| [0202-happy-number](https://github.com/rs-vishal/LeetCode/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/rs-vishal/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Database
 |  |
