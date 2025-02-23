@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/rs-vishal/LeetCode/tree/master/0175-combine-two-tables) |
+| [3782-find-valid-emails](https://github.com/rs-vishal/LeetCode/tree/master/3782-find-valid-emails) |
 ## Binary Search
 |  |
 | ------- |
