@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/rs-vishal/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/rs-vishal/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/rs-vishal/LeetCode/tree/master/0389-find-the-difference) |
 | [0861-flipping-an-image](https://github.com/rs-vishal/LeetCode/tree/master/0861-flipping-an-image) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/rs-vishal/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/rs-vishal/LeetCode/tree/master/0007-reverse-integer) |
 | [0202-happy-number](https://github.com/rs-vishal/LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/rs-vishal/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rs-vishal/LeetCode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/rs-vishal/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rs-vishal/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rs-vishal/LeetCode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/rs-vishal/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rs-vishal/LeetCode/tree/master/0326-power-of-three) |
 ## Tree
 |  |
