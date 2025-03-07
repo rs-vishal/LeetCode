@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/rs-vishal/LeetCode/tree/master/0072-edit-distance) |
+| [0205-isomorphic-strings](https://github.com/rs-vishal/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/rs-vishal/LeetCode/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/rs-vishal/LeetCode/tree/master/0389-find-the-difference) |
 | [0648-replace-words](https://github.com/rs-vishal/LeetCode/tree/master/0648-replace-words) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/rs-vishal/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/rs-vishal/LeetCode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/rs-vishal/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/rs-vishal/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/rs-vishal/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/rs-vishal/LeetCode/tree/master/0389-find-the-difference) |
