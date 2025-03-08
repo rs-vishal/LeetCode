@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/rs-vishal/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/rs-vishal/LeetCode/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/rs-vishal/LeetCode/tree/master/0389-find-the-difference) |
+| [0402-remove-k-digits](https://github.com/rs-vishal/LeetCode/tree/master/0402-remove-k-digits) |
 | [0648-replace-words](https://github.com/rs-vishal/LeetCode/tree/master/0648-replace-words) |
 | [0874-backspace-string-compare](https://github.com/rs-vishal/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/rs-vishal/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/rs-vishal/LeetCode/tree/master/0402-remove-k-digits) |
 | [0917-boats-to-save-people](https://github.com/rs-vishal/LeetCode/tree/master/0917-boats-to-save-people) |
 ## Sorting
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rs-vishal/LeetCode/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/rs-vishal/LeetCode/tree/master/0402-remove-k-digits) |
 | [0874-backspace-string-compare](https://github.com/rs-vishal/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rs-vishal/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/rs-vishal/LeetCode/tree/master/3447-clear-digits) |
@@ -203,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/rs-vishal/LeetCode/tree/master/0838-design-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/rs-vishal/LeetCode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
