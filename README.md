@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/rs-vishal/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0917-boats-to-save-people](https://github.com/rs-vishal/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/rs-vishal/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2128-reverse-prefix-of-word](https://github.com/rs-vishal/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rs-vishal/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/rs-vishal/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rs-vishal/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/rs-vishal/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/rs-vishal/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rs-vishal/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2128-reverse-prefix-of-word](https://github.com/rs-vishal/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/rs-vishal/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [3447-clear-digits](https://github.com/rs-vishal/LeetCode/tree/master/3447-clear-digits) |
 ## Prefix Sum
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/rs-vishal/LeetCode/tree/master/0402-remove-k-digits) |
 | [0874-backspace-string-compare](https://github.com/rs-vishal/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rs-vishal/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2128-reverse-prefix-of-word](https://github.com/rs-vishal/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [3447-clear-digits](https://github.com/rs-vishal/LeetCode/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
