@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/rs-vishal/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rs-vishal/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/rs-vishal/LeetCode/tree/master/0078-subsets) |
+| [0152-maximum-product-subarray](https://github.com/rs-vishal/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/rs-vishal/LeetCode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rs-vishal/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/rs-vishal/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/rs-vishal/LeetCode/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/rs-vishal/LeetCode/tree/master/0072-edit-distance) |
+| [0152-maximum-product-subarray](https://github.com/rs-vishal/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/rs-vishal/LeetCode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/rs-vishal/LeetCode/tree/master/0221-maximal-square) |
 | [0377-combination-sum-iv](https://github.com/rs-vishal/LeetCode/tree/master/0377-combination-sum-iv) |
