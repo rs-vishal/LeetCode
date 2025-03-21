@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/rs-vishal/LeetCode/tree/master/0861-flipping-an-image) |
 | [0917-boats-to-save-people](https://github.com/rs-vishal/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1306-minimum-absolute-difference](https://github.com/rs-vishal/LeetCode/tree/master/1306-minimum-absolute-difference) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/rs-vishal/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rs-vishal/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1769-get-maximum-in-generated-array](https://github.com/rs-vishal/LeetCode/tree/master/1769-get-maximum-in-generated-array) |
 | [1833-find-the-highest-altitude](https://github.com/rs-vishal/LeetCode/tree/master/1833-find-the-highest-altitude) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/rs-vishal/LeetCode/tree/master/0402-remove-k-digits) |
 | [0917-boats-to-save-people](https://github.com/rs-vishal/LeetCode/tree/master/0917-boats-to-save-people) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/rs-vishal/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 ## Sorting
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/rs-vishal/LeetCode/tree/master/0414-third-maximum-number) |
 | [0917-boats-to-save-people](https://github.com/rs-vishal/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1306-minimum-absolute-difference](https://github.com/rs-vishal/LeetCode/tree/master/1306-minimum-absolute-difference) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/rs-vishal/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rs-vishal/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Hash Table
 |  |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/rs-vishal/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rs-vishal/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0648-replace-words](https://github.com/rs-vishal/LeetCode/tree/master/0648-replace-words) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/rs-vishal/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rs-vishal/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rs-vishal/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rs-vishal/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -274,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/rs-vishal/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rs-vishal/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rs-vishal/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Backtracking
