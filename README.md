@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rs-vishal/LeetCode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/rs-vishal/LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/rs-vishal/LeetCode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rs-vishal/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rs-vishal/LeetCode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/rs-vishal/LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rs-vishal/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/rs-vishal/LeetCode/tree/master/0027-remove-element) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rs-vishal/LeetCode/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/rs-vishal/LeetCode/tree/master/0402-remove-k-digits) |
 | [0917-boats-to-save-people](https://github.com/rs-vishal/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/rs-vishal/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
