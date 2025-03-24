@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/rs-vishal/LeetCode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rs-vishal/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rs-vishal/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/rs-vishal/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0648-replace-words](https://github.com/rs-vishal/LeetCode/tree/master/0648-replace-words) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/rs-vishal/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0861-flipping-an-image](https://github.com/rs-vishal/LeetCode/tree/master/0861-flipping-an-image) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/rs-vishal/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/rs-vishal/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/rs-vishal/LeetCode/tree/master/0414-third-maximum-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/rs-vishal/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0917-boats-to-save-people](https://github.com/rs-vishal/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1306-minimum-absolute-difference](https://github.com/rs-vishal/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/rs-vishal/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/rs-vishal/LeetCode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rs-vishal/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rs-vishal/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/rs-vishal/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0648-replace-words](https://github.com/rs-vishal/LeetCode/tree/master/0648-replace-words) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/rs-vishal/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rs-vishal/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -285,9 +288,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rs-vishal/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/rs-vishal/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/rs-vishal/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/rs-vishal/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/rs-vishal/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/rs-vishal/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rs-vishal/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rs-vishal/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
