@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/rs-vishal/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rs-vishal/LeetCode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/rs-vishal/LeetCode/tree/master/0367-valid-perfect-square) |
+| [1585-the-kth-factor-of-n](https://github.com/rs-vishal/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rs-vishal/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Database
 |  |
@@ -302,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/rs-vishal/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/rs-vishal/LeetCode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/rs-vishal/LeetCode/tree/master/0078-subsets) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/rs-vishal/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
