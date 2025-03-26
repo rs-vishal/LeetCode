@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rs-vishal/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rs-vishal/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0377-combination-sum-iv](https://github.com/rs-vishal/LeetCode/tree/master/0377-combination-sum-iv) |
+| [0396-rotate-function](https://github.com/rs-vishal/LeetCode/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/rs-vishal/LeetCode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rs-vishal/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rs-vishal/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/rs-vishal/LeetCode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/rs-vishal/LeetCode/tree/master/0221-maximal-square) |
 | [0377-combination-sum-iv](https://github.com/rs-vishal/LeetCode/tree/master/0377-combination-sum-iv) |
+| [0396-rotate-function](https://github.com/rs-vishal/LeetCode/tree/master/0396-rotate-function) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rs-vishal/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Two Pointers
 |  |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/rs-vishal/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rs-vishal/LeetCode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/rs-vishal/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0396-rotate-function](https://github.com/rs-vishal/LeetCode/tree/master/0396-rotate-function) |
 | [1585-the-kth-factor-of-n](https://github.com/rs-vishal/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rs-vishal/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Database
