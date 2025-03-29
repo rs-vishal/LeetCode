@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/rs-vishal/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/rs-vishal/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/rs-vishal/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rs-vishal/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/rs-vishal/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rs-vishal/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1769-get-maximum-in-generated-array](https://github.com/rs-vishal/LeetCode/tree/master/1769-get-maximum-in-generated-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/rs-vishal/LeetCode/tree/master/0221-maximal-square) |
 | [0377-combination-sum-iv](https://github.com/rs-vishal/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/rs-vishal/LeetCode/tree/master/0396-rotate-function) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rs-vishal/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rs-vishal/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Two Pointers
 |  |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/rs-vishal/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/rs-vishal/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/rs-vishal/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rs-vishal/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Counting
 |  |
 | ------- |
