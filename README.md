@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/rs-vishal/LeetCode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rs-vishal/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rs-vishal/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/rs-vishal/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/rs-vishal/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0648-replace-words](https://github.com/rs-vishal/LeetCode/tree/master/0648-replace-words) |
 | [0735-asteroid-collision](https://github.com/rs-vishal/LeetCode/tree/master/0735-asteroid-collision) |
