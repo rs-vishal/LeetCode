@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/rs-vishal/LeetCode/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/rs-vishal/LeetCode/tree/master/0402-remove-k-digits) |
 | [0459-repeated-substring-pattern](https://github.com/rs-vishal/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0482-license-key-formatting](https://github.com/rs-vishal/LeetCode/tree/master/0482-license-key-formatting) |
 | [0541-reverse-string-ii](https://github.com/rs-vishal/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rs-vishal/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0648-replace-words](https://github.com/rs-vishal/LeetCode/tree/master/0648-replace-words) |
