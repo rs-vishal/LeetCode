@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/rs-vishal/LeetCode/tree/master/0648-replace-words) |
 | [0735-asteroid-collision](https://github.com/rs-vishal/LeetCode/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/rs-vishal/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0747-min-cost-climbing-stairs](https://github.com/rs-vishal/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0861-flipping-an-image](https://github.com/rs-vishal/LeetCode/tree/master/0861-flipping-an-image) |
 | [0869-similar-string-groups](https://github.com/rs-vishal/LeetCode/tree/master/0869-similar-string-groups) |
 | [0917-boats-to-save-people](https://github.com/rs-vishal/LeetCode/tree/master/0917-boats-to-save-people) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/rs-vishal/LeetCode/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/rs-vishal/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/rs-vishal/LeetCode/tree/master/0396-rotate-function) |
+| [0747-min-cost-climbing-stairs](https://github.com/rs-vishal/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rs-vishal/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rs-vishal/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Two Pointers
