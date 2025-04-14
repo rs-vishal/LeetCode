@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/rs-vishal/LeetCode/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/rs-vishal/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/rs-vishal/LeetCode/tree/master/0584-find-customer-referee) |
+| [1390-average-selling-price](https://github.com/rs-vishal/LeetCode/tree/master/1390-average-selling-price) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/rs-vishal/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1908-recyclable-and-low-fat-products](https://github.com/rs-vishal/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [3782-find-valid-emails](https://github.com/rs-vishal/LeetCode/tree/master/3782-find-valid-emails) |
