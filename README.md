@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1332-count-vowels-permutation](https://github.com/rs-vishal/LeetCode/tree/master/1332-count-vowels-permutation) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rs-vishal/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rs-vishal/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1761-count-sorted-vowel-strings](https://github.com/rs-vishal/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1430-find-the-k-beauty-of-a-number](https://github.com/rs-vishal/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1585-the-kth-factor-of-n](https://github.com/rs-vishal/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rs-vishal/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1761-count-sorted-vowel-strings](https://github.com/rs-vishal/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/rs-vishal/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Database
 |  |
@@ -428,4 +430,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0919-projection-area-of-3d-shapes](https://github.com/rs-vishal/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
+## Combinatorics
+|  |
+| ------- |
+| [1761-count-sorted-vowel-strings](https://github.com/rs-vishal/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 <!---LeetCode Topics End-->
