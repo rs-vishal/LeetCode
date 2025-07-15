@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rs-vishal/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/rs-vishal/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rs-vishal/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2721-sum-of-distances](https://github.com/rs-vishal/LeetCode/tree/master/2721-sum-of-distances) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/rs-vishal/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rs-vishal/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/rs-vishal/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [2721-sum-of-distances](https://github.com/rs-vishal/LeetCode/tree/master/2721-sum-of-distances) |
 ## Greedy
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/rs-vishal/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rs-vishal/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rs-vishal/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2721-sum-of-distances](https://github.com/rs-vishal/LeetCode/tree/master/2721-sum-of-distances) |
 ## Bit Manipulation
 |  |
 | ------- |
