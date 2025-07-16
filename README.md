@@ -341,16 +341,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rs-vishal/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/rs-vishal/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/rs-vishal/LeetCode/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rs-vishal/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/rs-vishal/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/rs-vishal/LeetCode/tree/master/0101-symmetric-tree) |
 | [0869-similar-string-groups](https://github.com/rs-vishal/LeetCode/tree/master/0869-similar-string-groups) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/rs-vishal/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/rs-vishal/LeetCode/tree/master/0101-symmetric-tree) |
 | [0322-coin-change](https://github.com/rs-vishal/LeetCode/tree/master/0322-coin-change) |
 | [0869-similar-string-groups](https://github.com/rs-vishal/LeetCode/tree/master/0869-similar-string-groups) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rs-vishal/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/rs-vishal/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/rs-vishal/LeetCode/tree/master/0101-symmetric-tree) |
 ## Divide and Conquer
 |  |
