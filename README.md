@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/rs-vishal/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0142-linked-list-cycle-ii](https://github.com/rs-vishal/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/rs-vishal/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/rs-vishal/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0838-design-linked-list](https://github.com/rs-vishal/LeetCode/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/rs-vishal/LeetCode/tree/master/0860-design-circular-queue) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/rs-vishal/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
