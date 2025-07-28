@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/rs-vishal/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/rs-vishal/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0648-replace-words](https://github.com/rs-vishal/LeetCode/tree/master/0648-replace-words) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rs-vishal/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/rs-vishal/LeetCode/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/rs-vishal/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/rs-vishal/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/rs-vishal/LeetCode/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/rs-vishal/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/rs-vishal/LeetCode/tree/master/0396-rotate-function) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rs-vishal/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/rs-vishal/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1332-count-vowels-permutation](https://github.com/rs-vishal/LeetCode/tree/master/1332-count-vowels-permutation) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rs-vishal/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rs-vishal/LeetCode/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/rs-vishal/LeetCode/tree/master/0402-remove-k-digits) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rs-vishal/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0797-rabbits-in-forest](https://github.com/rs-vishal/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0917-boats-to-save-people](https://github.com/rs-vishal/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/rs-vishal/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
