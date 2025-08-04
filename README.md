@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/rs-vishal/LeetCode/tree/master/0860-design-circular-queue) |
 | [0861-flipping-an-image](https://github.com/rs-vishal/LeetCode/tree/master/0861-flipping-an-image) |
 | [0869-similar-string-groups](https://github.com/rs-vishal/LeetCode/tree/master/0869-similar-string-groups) |
+| [0909-stone-game](https://github.com/rs-vishal/LeetCode/tree/master/0909-stone-game) |
 | [0917-boats-to-save-people](https://github.com/rs-vishal/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0919-projection-area-of-3d-shapes](https://github.com/rs-vishal/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 | [1036-rotting-oranges](https://github.com/rs-vishal/LeetCode/tree/master/1036-rotting-oranges) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/rs-vishal/LeetCode/tree/master/0396-rotate-function) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rs-vishal/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/rs-vishal/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0909-stone-game](https://github.com/rs-vishal/LeetCode/tree/master/0909-stone-game) |
 | [1332-count-vowels-permutation](https://github.com/rs-vishal/LeetCode/tree/master/1332-count-vowels-permutation) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rs-vishal/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rs-vishal/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/rs-vishal/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/rs-vishal/LeetCode/tree/master/0396-rotate-function) |
 | [0797-rabbits-in-forest](https://github.com/rs-vishal/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0909-stone-game](https://github.com/rs-vishal/LeetCode/tree/master/0909-stone-game) |
 | [0919-projection-area-of-3d-shapes](https://github.com/rs-vishal/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/rs-vishal/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/rs-vishal/LeetCode/tree/master/1446-angle-between-hands-of-a-clock) |
@@ -511,4 +514,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rs-vishal/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/rs-vishal/LeetCode/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
