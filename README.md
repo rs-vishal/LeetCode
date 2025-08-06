@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/rs-vishal/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/rs-vishal/LeetCode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/rs-vishal/LeetCode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/rs-vishal/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/rs-vishal/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/rs-vishal/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/rs-vishal/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/rs-vishal/LeetCode/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/rs-vishal/LeetCode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/rs-vishal/LeetCode/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/rs-vishal/LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/rs-vishal/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/rs-vishal/LeetCode/tree/master/0227-basic-calculator-ii) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/rs-vishal/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/rs-vishal/LeetCode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/rs-vishal/LeetCode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/rs-vishal/LeetCode/tree/master/0089-gray-code) |
 ## Number Theory
 |  |
 | ------- |
