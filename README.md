@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/rs-vishal/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1894-merge-strings-alternately](https://github.com/rs-vishal/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rs-vishal/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/rs-vishal/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2128-reverse-prefix-of-word](https://github.com/rs-vishal/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/rs-vishal/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2391-strong-password-checker-ii](https://github.com/rs-vishal/LeetCode/tree/master/2391-strong-password-checker-ii) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/rs-vishal/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/rs-vishal/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1829-maximum-units-on-a-truck](https://github.com/rs-vishal/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/rs-vishal/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 ## Sorting
 |  |
 | ------- |
