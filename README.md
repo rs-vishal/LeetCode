@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rs-vishal/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rs-vishal/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/rs-vishal/LeetCode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/rs-vishal/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/rs-vishal/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rs-vishal/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rs-vishal/LeetCode/tree/master/0075-sort-colors) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/rs-vishal/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rs-vishal/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/rs-vishal/LeetCode/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/rs-vishal/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/rs-vishal/LeetCode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/rs-vishal/LeetCode/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/rs-vishal/LeetCode/tree/master/0202-happy-number) |
