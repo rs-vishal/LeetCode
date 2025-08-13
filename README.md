@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/rs-vishal/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/rs-vishal/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/rs-vishal/LeetCode/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/rs-vishal/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/rs-vishal/LeetCode/tree/master/0072-edit-distance) |
 | [0205-isomorphic-strings](https://github.com/rs-vishal/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/rs-vishal/LeetCode/tree/master/0224-basic-calculator) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/rs-vishal/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rs-vishal/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/rs-vishal/LeetCode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rs-vishal/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rs-vishal/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rs-vishal/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
