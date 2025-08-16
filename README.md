@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/rs-vishal/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/rs-vishal/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/rs-vishal/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/rs-vishal/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1524-string-matching-in-an-array](https://github.com/rs-vishal/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rs-vishal/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/rs-vishal/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rs-vishal/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/rs-vishal/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rs-vishal/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/rs-vishal/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2721-sum-of-distances](https://github.com/rs-vishal/LeetCode/tree/master/2721-sum-of-distances) |
