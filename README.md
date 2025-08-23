@@ -511,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rs-vishal/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/rs-vishal/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/rs-vishal/LeetCode/tree/master/0047-permutations-ii) |
+| [0077-combinations](https://github.com/rs-vishal/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/rs-vishal/LeetCode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/rs-vishal/LeetCode/tree/master/0089-gray-code) |
 | [0113-path-sum-ii](https://github.com/rs-vishal/LeetCode/tree/master/0113-path-sum-ii) |
