@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/rs-vishal/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rs-vishal/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2721-sum-of-distances](https://github.com/rs-vishal/LeetCode/tree/master/2721-sum-of-distances) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/rs-vishal/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rs-vishal/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rs-vishal/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2721-sum-of-distances](https://github.com/rs-vishal/LeetCode/tree/master/2721-sum-of-distances) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/rs-vishal/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/rs-vishal/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/rs-vishal/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/rs-vishal/LeetCode/tree/master/3447-clear-digits) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/rs-vishal/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/rs-vishal/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/rs-vishal/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rs-vishal/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/rs-vishal/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Math
 |  |
 | ------- |
@@ -386,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0838-design-linked-list](https://github.com/rs-vishal/LeetCode/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/rs-vishal/LeetCode/tree/master/0860-design-circular-queue) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/rs-vishal/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/rs-vishal/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -577,4 +582,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/rs-vishal/LeetCode/tree/master/0133-clone-graph) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/rs-vishal/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/rs-vishal/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
