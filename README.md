@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/rs-vishal/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/rs-vishal/LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/rs-vishal/LeetCode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/rs-vishal/LeetCode/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/rs-vishal/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/rs-vishal/LeetCode/tree/master/0198-house-robber) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/rs-vishal/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rs-vishal/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/rs-vishal/LeetCode/tree/master/0012-integer-to-roman) |
+| [0062-unique-paths](https://github.com/rs-vishal/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/rs-vishal/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/rs-vishal/LeetCode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/rs-vishal/LeetCode/tree/master/0089-gray-code) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/rs-vishal/LeetCode/tree/master/0062-unique-paths) |
 | [1761-count-sorted-vowel-strings](https://github.com/rs-vishal/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 ## Binary Search Tree
 |  |
