@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-get-maximum-in-generated-array](https://github.com/rs-vishal/LeetCode/tree/master/1769-get-maximum-in-generated-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rs-vishal/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rs-vishal/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/rs-vishal/LeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2470-removing-stars-from-a-string](https://github.com/rs-vishal/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/rs-vishal/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/rs-vishal/LeetCode/tree/master/3447-clear-digits) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rs-vishal/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1761-count-sorted-vowel-strings](https://github.com/rs-vishal/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 | [1965-sum-of-digits-in-base-k](https://github.com/rs-vishal/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/rs-vishal/LeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/rs-vishal/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Database
 |  |
