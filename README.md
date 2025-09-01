@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/rs-vishal/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rs-vishal/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/rs-vishal/LeetCode/tree/master/0078-subsets) |
+| [0128-longest-consecutive-sequence](https://github.com/rs-vishal/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/rs-vishal/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/rs-vishal/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/rs-vishal/LeetCode/tree/master/0162-find-peak-element) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rs-vishal/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/rs-vishal/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/rs-vishal/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/rs-vishal/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/rs-vishal/LeetCode/tree/master/0133-clone-graph) |
 | [0142-linked-list-cycle-ii](https://github.com/rs-vishal/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rs-vishal/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rs-vishal/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0869-similar-string-groups](https://github.com/rs-vishal/LeetCode/tree/master/0869-similar-string-groups) |
 ## Counting Sort
 |  |
