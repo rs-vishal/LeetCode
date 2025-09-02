@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/rs-vishal/LeetCode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/rs-vishal/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rs-vishal/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/rs-vishal/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rs-vishal/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/rs-vishal/LeetCode/tree/master/0221-maximal-square) |
 | [0283-move-zeroes](https://github.com/rs-vishal/LeetCode/tree/master/0283-move-zeroes) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rs-vishal/LeetCode/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/rs-vishal/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rs-vishal/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/rs-vishal/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/rs-vishal/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rs-vishal/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rs-vishal/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/rs-vishal/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/rs-vishal/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/rs-vishal/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/rs-vishal/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rs-vishal/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/rs-vishal/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/rs-vishal/LeetCode/tree/master/0347-top-k-frequent-elements) |
