@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/rs-vishal/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0909-stone-game](https://github.com/rs-vishal/LeetCode/tree/master/0909-stone-game) |
 | [0919-projection-area-of-3d-shapes](https://github.com/rs-vishal/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rs-vishal/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/rs-vishal/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/rs-vishal/LeetCode/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1585-the-kth-factor-of-n](https://github.com/rs-vishal/LeetCode/tree/master/1585-the-kth-factor-of-n) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/rs-vishal/LeetCode/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/rs-vishal/LeetCode/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/rs-vishal/LeetCode/tree/master/0860-design-circular-queue) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rs-vishal/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/rs-vishal/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/rs-vishal/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
