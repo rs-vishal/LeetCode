@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/rs-vishal/LeetCode/tree/master/0909-stone-game) |
 | [0917-boats-to-save-people](https://github.com/rs-vishal/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0919-projection-area-of-3d-shapes](https://github.com/rs-vishal/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
+| [0978-valid-mountain-array](https://github.com/rs-vishal/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1036-rotting-oranges](https://github.com/rs-vishal/LeetCode/tree/master/1036-rotting-oranges) |
 | [1137-height-checker](https://github.com/rs-vishal/LeetCode/tree/master/1137-height-checker) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/rs-vishal/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
