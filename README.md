@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rs-vishal/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rs-vishal/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1761-count-sorted-vowel-strings](https://github.com/rs-vishal/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
+| [3637-count-number-of-balanced-permutations](https://github.com/rs-vishal/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/rs-vishal/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3447-clear-digits](https://github.com/rs-vishal/LeetCode/tree/master/3447-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/rs-vishal/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3637-count-number-of-balanced-permutations](https://github.com/rs-vishal/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/rs-vishal/LeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/rs-vishal/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3462-vowels-game-in-a-string](https://github.com/rs-vishal/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3637-count-number-of-balanced-permutations](https://github.com/rs-vishal/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Database
 |  |
 | ------- |
@@ -613,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/rs-vishal/LeetCode/tree/master/0062-unique-paths) |
 | [1761-count-sorted-vowel-strings](https://github.com/rs-vishal/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
+| [3637-count-number-of-balanced-permutations](https://github.com/rs-vishal/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Binary Search Tree
 |  |
 | ------- |
