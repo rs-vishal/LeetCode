@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/rs-vishal/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3447-clear-digits](https://github.com/rs-vishal/LeetCode/tree/master/3447-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/rs-vishal/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3636-check-balanced-string](https://github.com/rs-vishal/LeetCode/tree/master/3636-check-balanced-string) |
 | [3637-count-number-of-balanced-permutations](https://github.com/rs-vishal/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/rs-vishal/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
