@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/rs-vishal/LeetCode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/rs-vishal/LeetCode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/rs-vishal/LeetCode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/rs-vishal/LeetCode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/rs-vishal/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/rs-vishal/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/rs-vishal/LeetCode/tree/master/0389-find-the-difference) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rs-vishal/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/rs-vishal/LeetCode/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/rs-vishal/LeetCode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rs-vishal/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rs-vishal/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
