@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/rs-vishal/LeetCode/tree/master/0735-asteroid-collision) |
 | [0861-flipping-an-image](https://github.com/rs-vishal/LeetCode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/rs-vishal/LeetCode/tree/master/0874-backspace-string-compare) |
+| [1642-water-bottles](https://github.com/rs-vishal/LeetCode/tree/master/1642-water-bottles) |
 | [1769-get-maximum-in-generated-array](https://github.com/rs-vishal/LeetCode/tree/master/1769-get-maximum-in-generated-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rs-vishal/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rs-vishal/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-angle-between-hands-of-a-clock](https://github.com/rs-vishal/LeetCode/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1585-the-kth-factor-of-n](https://github.com/rs-vishal/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rs-vishal/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1642-water-bottles](https://github.com/rs-vishal/LeetCode/tree/master/1642-water-bottles) |
 | [1761-count-sorted-vowel-strings](https://github.com/rs-vishal/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 | [1965-sum-of-digits-in-base-k](https://github.com/rs-vishal/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/rs-vishal/LeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
