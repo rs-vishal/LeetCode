@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/rs-vishal/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/rs-vishal/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/rs-vishal/LeetCode/tree/master/0231-power-of-two) |
+| [0292-nim-game](https://github.com/rs-vishal/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/rs-vishal/LeetCode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/rs-vishal/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/rs-vishal/LeetCode/tree/master/0396-rotate-function) |
@@ -691,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/rs-vishal/LeetCode/tree/master/0292-nim-game) |
 | [0909-stone-game](https://github.com/rs-vishal/LeetCode/tree/master/0909-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/rs-vishal/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Graph
@@ -718,5 +720,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/rs-vishal/LeetCode/tree/master/0292-nim-game) |
 | [3462-vowels-game-in-a-string](https://github.com/rs-vishal/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
