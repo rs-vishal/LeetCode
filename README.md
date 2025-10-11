@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/rs-vishal/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/rs-vishal/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0817-design-hashmap](https://github.com/rs-vishal/LeetCode/tree/master/0817-design-hashmap) |
+| [0841-shortest-distance-to-a-character](https://github.com/rs-vishal/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0860-design-circular-queue](https://github.com/rs-vishal/LeetCode/tree/master/0860-design-circular-queue) |
 | [0861-flipping-an-image](https://github.com/rs-vishal/LeetCode/tree/master/0861-flipping-an-image) |
 | [0869-similar-string-groups](https://github.com/rs-vishal/LeetCode/tree/master/0869-similar-string-groups) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/rs-vishal/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0541-reverse-string-ii](https://github.com/rs-vishal/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rs-vishal/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0841-shortest-distance-to-a-character](https://github.com/rs-vishal/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/rs-vishal/LeetCode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/rs-vishal/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0917-boats-to-save-people](https://github.com/rs-vishal/LeetCode/tree/master/0917-boats-to-save-people) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/rs-vishal/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0648-replace-words](https://github.com/rs-vishal/LeetCode/tree/master/0648-replace-words) |
 | [0678-valid-parenthesis-string](https://github.com/rs-vishal/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0841-shortest-distance-to-a-character](https://github.com/rs-vishal/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0869-similar-string-groups](https://github.com/rs-vishal/LeetCode/tree/master/0869-similar-string-groups) |
 | [0874-backspace-string-compare](https://github.com/rs-vishal/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/rs-vishal/LeetCode/tree/master/0953-reverse-only-letters) |
