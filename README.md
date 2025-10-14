@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rs-vishal/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2486-most-frequent-even-element](https://github.com/rs-vishal/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2551-apply-operations-to-an-array](https://github.com/rs-vishal/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/rs-vishal/LeetCode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rs-vishal/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/rs-vishal/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rs-vishal/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/rs-vishal/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rs-vishal/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/rs-vishal/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/rs-vishal/LeetCode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rs-vishal/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
