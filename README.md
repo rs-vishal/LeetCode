@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/rs-vishal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/rs-vishal/LeetCode/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/rs-vishal/LeetCode/tree/master/0402-remove-k-digits) |
+| [0415-add-strings](https://github.com/rs-vishal/LeetCode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/rs-vishal/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/rs-vishal/LeetCode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/rs-vishal/LeetCode/tree/master/0459-repeated-substring-pattern) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/rs-vishal/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/rs-vishal/LeetCode/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/rs-vishal/LeetCode/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/rs-vishal/LeetCode/tree/master/0735-asteroid-collision) |
 | [0861-flipping-an-image](https://github.com/rs-vishal/LeetCode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/rs-vishal/LeetCode/tree/master/0874-backspace-string-compare) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/rs-vishal/LeetCode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/rs-vishal/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/rs-vishal/LeetCode/tree/master/0396-rotate-function) |
+| [0415-add-strings](https://github.com/rs-vishal/LeetCode/tree/master/0415-add-strings) |
 | [0797-rabbits-in-forest](https://github.com/rs-vishal/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0909-stone-game](https://github.com/rs-vishal/LeetCode/tree/master/0909-stone-game) |
 | [0919-projection-area-of-3d-shapes](https://github.com/rs-vishal/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
