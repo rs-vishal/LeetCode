@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/rs-vishal/LeetCode/tree/master/0909-stone-game) |
 | [0917-boats-to-save-people](https://github.com/rs-vishal/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0919-projection-area-of-3d-shapes](https://github.com/rs-vishal/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
+| [0958-sort-array-by-parity-ii](https://github.com/rs-vishal/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0978-valid-mountain-array](https://github.com/rs-vishal/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1018-largest-perimeter-triangle](https://github.com/rs-vishal/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/rs-vishal/LeetCode/tree/master/1036-rotting-oranges) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/rs-vishal/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0917-boats-to-save-people](https://github.com/rs-vishal/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0953-reverse-only-letters](https://github.com/rs-vishal/LeetCode/tree/master/0953-reverse-only-letters) |
+| [0958-sort-array-by-parity-ii](https://github.com/rs-vishal/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0961-long-pressed-name](https://github.com/rs-vishal/LeetCode/tree/master/0961-long-pressed-name) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rs-vishal/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/rs-vishal/LeetCode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/rs-vishal/LeetCode/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/rs-vishal/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0917-boats-to-save-people](https://github.com/rs-vishal/LeetCode/tree/master/0917-boats-to-save-people) |
+| [0958-sort-array-by-parity-ii](https://github.com/rs-vishal/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/rs-vishal/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1137-height-checker](https://github.com/rs-vishal/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/rs-vishal/LeetCode/tree/master/1217-relative-sort-array) |
