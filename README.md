@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/rs-vishal/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1833-find-the-highest-altitude](https://github.com/rs-vishal/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2169-simple-bank-system](https://github.com/rs-vishal/LeetCode/tree/master/2169-simple-bank-system) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/rs-vishal/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rs-vishal/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rs-vishal/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rs-vishal/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/rs-vishal/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2128-reverse-prefix-of-word](https://github.com/rs-vishal/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/rs-vishal/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/rs-vishal/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2391-strong-password-checker-ii](https://github.com/rs-vishal/LeetCode/tree/master/2391-strong-password-checker-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/rs-vishal/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/rs-vishal/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1761-count-sorted-vowel-strings](https://github.com/rs-vishal/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/rs-vishal/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1965-sum-of-digits-in-base-k](https://github.com/rs-vishal/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/rs-vishal/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/rs-vishal/LeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/rs-vishal/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/rs-vishal/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/rs-vishal/LeetCode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/rs-vishal/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/rs-vishal/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/rs-vishal/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Linked List
 |  |
 | ------- |
