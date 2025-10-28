@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2721-sum-of-distances](https://github.com/rs-vishal/LeetCode/tree/master/2721-sum-of-distances) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/rs-vishal/LeetCode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/rs-vishal/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/rs-vishal/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/rs-vishal/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Dynamic Programming
 |  |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rs-vishal/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/rs-vishal/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2721-sum-of-distances](https://github.com/rs-vishal/LeetCode/tree/master/2721-sum-of-distances) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/rs-vishal/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Greedy
 |  |
 | ------- |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/rs-vishal/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/rs-vishal/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/rs-vishal/LeetCode/tree/master/3447-clear-digits) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/rs-vishal/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/rs-vishal/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
 |  |
