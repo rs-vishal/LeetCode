@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/rs-vishal/LeetCode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/rs-vishal/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/rs-vishal/LeetCode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/rs-vishal/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/rs-vishal/LeetCode/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/rs-vishal/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/rs-vishal/LeetCode/tree/master/0198-house-robber) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/rs-vishal/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/rs-vishal/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/rs-vishal/LeetCode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/rs-vishal/LeetCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/rs-vishal/LeetCode/tree/master/0089-gray-code) |
 | [0172-factorial-trailing-zeroes](https://github.com/rs-vishal/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/rs-vishal/LeetCode/tree/master/0202-happy-number) |
@@ -779,4 +781,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/rs-vishal/LeetCode/tree/master/0292-nim-game) |
 | [3462-vowels-game-in-a-string](https://github.com/rs-vishal/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rs-vishal/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
